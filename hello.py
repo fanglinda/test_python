@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
 print("Hello world!")
-print("From Git!")
-print("this one should be automatically triggerd!")
+# This is the complete for loop program from page 32
+
+for x in range(0, 10):
+    print(x)
+
