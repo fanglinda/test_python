@@ -6,3 +6,9 @@ print("Hello world!")
 for x in range(0, 10):
     print(x)
 
+
+spacelist = ["rocket", "planet", "asteroid", "alien"]
+print(spacelist[0])
+print(spacelist[1])
+print(spacelist[2])
+print(spacelist[3])
