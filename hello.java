@@ -1,7 +1,6 @@
-public class Hello {
-	public static void main(String{} arg) {
-		for (int i=1; i<=10; i++) {
-			system.out.println("hello", +i);
-		}
-	}
+public class HelloWorld {
+   public static void main(String[] args) {
+      // Prints "Hello, World" in the terminal window.
+      System.out.println("Hello, World");
+   }
 }
